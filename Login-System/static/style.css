@@ -56,3 +56,13 @@ p{
     text-align:center;
     margin-top:15px;
 }
+
+.flash-message{
+    background-color:#d4edda;
+    color:#155724;
+    padding:12px;
+    margin-bottom:15px;
+    border-radius:8px;
+    text-align:center;
+    font-weight:bold;
+}
